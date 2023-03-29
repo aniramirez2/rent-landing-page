@@ -1,0 +1,15 @@
+//Exemplo de importação de fontes
+
+@font-face {
+    font-family: 'Font Name';
+    src: url(../fonts/font-name.woff2);
+    font-weight: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/font-name.woff2);
+    font-weight: bold;
+    font-display: swap;
+}
